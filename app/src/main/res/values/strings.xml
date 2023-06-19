@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">M Cardiology</string>
+    <string name="logout">Logout</string>
+    <string-array name="Gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="BloodGroup">
+        <item>BloodGroup</item>
+        <item>A+</item>
+        <item>AB+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>AB-</item>
+        <item>B-</item>
+        <item>O-</item>
+    </string-array>
+</resources>

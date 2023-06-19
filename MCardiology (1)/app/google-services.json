@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435534768952",
+    "project_id": "m-cardiology",
+    "storage_bucket": "m-cardiology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435534768952:android:d9f60f9721822b26a06fcd",
+        "android_client_info": {
+          "package_name": "com.example.mcardiology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435534768952-4k4f0rh9l67dn3gnceerj5tjsleanibd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDG8cDxXq67LUvWeeEmfZPuJJugCXiEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435534768952-4k4f0rh9l67dn3gnceerj5tjsleanibd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
